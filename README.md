@@ -14,7 +14,7 @@ Projeto feito como atividade de HTML e CSS do curso BOOTCAMP FRONTBASE, ministra
 <br>
 Project made as an HTML and CSS activity for the BOOTCAMP FRONTBASE course, taught by professor Gabriel Salvador.
 
-<img src="IMG_0092.png" width="200" height="200"/>
+<img src="Infográfico.jpg" width="900" height="2000"/>
 
 ## Atenção | Attention!
 
