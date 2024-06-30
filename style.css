@@ -214,7 +214,7 @@ img {
 }
 
 .section3 {
-    background-color: #f9f9f9;
+    background-color: antiquewhite;
     padding: 60px 0;
     text-align: center;
 }
@@ -229,7 +229,7 @@ img {
     font-weight: 600;
     letter-spacing: 1px;
     margin-bottom: 40px;
-    color: #a6a6a6;
+    color: black;
 }
 
 .client-row {
